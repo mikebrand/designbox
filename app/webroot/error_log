@@ -1,0 +1,86 @@
+[04-Feb-2012 14:48:00] PHP Fatal error:  Cannot redeclare HomepageController::$uses in /home/designbo/public_html/app/controllers/homepage_controller.php on line 6
+[05-Feb-2012 20:05:50] PHP Fatal error:  Call to undefined function  paginate() in /home/designbo/public_html/app/controllers/homepage_controller.php on line 102
+[05-Feb-2012 21:44:19] PHP Parse error:  syntax error, unexpected '}' in /home/designbo/public_html/app/controllers/pages_controller.php on line 220
+[05-Feb-2012 21:55:28] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/designbo/public_html/app/views/images/view.ctp on line 12
+[05-Feb-2012 21:55:32] PHP Parse error:  syntax error, unexpected ';' in /home/designbo/public_html/app/views/images/view.ctp on line 28
+[19-Feb-2012 14:06:22] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/designbo/public_html/app/views/pages/share.ctp on line 17
+[19-Feb-2012 15:56:12] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/designbo/public_html/app/controllers/ajax_controller.php on line 62
+[19-Feb-2012 15:57:42] PHP Parse error:  syntax error, unexpected '>' in /home/designbo/public_html/app/controllers/ajax_controller.php on line 64
+[27-Feb-2012 23:18:56] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home/designbo/public_html/app/views/projects/add.ctp on line 10
+[28-Feb-2012 00:24:10] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/designbo/public_html/app/views/pages/share.ctp on line 32
+[28-Feb-2012 00:24:51] PHP Parse error:  syntax error, unexpected '<' in /home/designbo/public_html/app/views/pages/share.ctp on line 11
+[28-Feb-2012 18:15:20] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/designbo/public_html/app/views/pages/share.ctp on line 56
+[28-Feb-2012 18:15:48] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/designbo/public_html/app/views/pages/share.ctp on line 60
+[29-Feb-2012 12:38:19] PHP Parse error:  syntax error, unexpected $end, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/projects_controller.php on line 182
+[01-Mar-2012 18:25:23] PHP Fatal error:  Cannot use string offset as an array in /home/designbo/public_html/app/views/pages/share.ctp on line 29
+[01-Mar-2012 18:25:59] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/designbo/public_html/app/views/pages/share.ctp on line 29
+[01-Mar-2012 18:27:09] PHP Fatal error:  Call to a member function find() on a non-object in /home/designbo/public_html/app/controllers/pages_controller.php on line 63
+[01-Mar-2012 18:27:24] PHP Fatal error:  Call to a member function find() on a non-object in /home/designbo/public_html/app/controllers/pages_controller.php on line 63
+[01-Mar-2012 18:54:23] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/designbo/public_html/app/controllers/pages_controller.php on line 76
+[01-Mar-2012 19:22:08] PHP Fatal error:  Function name must be a string in /home/designbo/public_html/app/views/projects/view.ctp on line 3
+[01-Mar-2012 21:21:03] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/designbo/public_html/app/views/pages/share.ctp on line 32
+[01-Mar-2012 21:27:52] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/designbo/public_html/app/views/pages/share.ctp on line 31
+[01-Mar-2012 21:50:23] PHP Parse error:  syntax error, unexpected T_STRING, expecting ']' in /home/designbo/public_html/app/controllers/users_controller.php on line 34
+[01-Mar-2012 22:01:12] PHP Parse error:  syntax error, unexpected '}' in /home/designbo/public_html/app/controllers/users_controller.php on line 40
+[01-Mar-2012 22:01:40] PHP Parse error:  syntax error, unexpected '}' in /home/designbo/public_html/app/controllers/users_controller.php on line 40
+[01-Mar-2012 22:01:50] PHP Parse error:  syntax error, unexpected '}' in /home/designbo/public_html/app/controllers/users_controller.php on line 85
+[01-Mar-2012 22:12:48] PHP Fatal error:  Call to a member function delete() on a non-object in /home/designbo/public_html/app/controllers/connections_controller.php on line 76
+[01-Mar-2012 22:13:13] PHP Fatal error:  Call to a member function delete() on a non-object in /home/designbo/public_html/app/controllers/connections_controller.php on line 76
+[01-Mar-2012 22:13:26] PHP Fatal error:  Call to a member function delete() on a non-object in /home/designbo/public_html/app/controllers/connections_controller.php on line 76
+[01-Mar-2012 22:13:56] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/connections_controller.php on line 38
+[01-Mar-2012 22:14:29] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/connections_controller.php on line 38
+[01-Mar-2012 22:15:19] PHP Fatal error:  Call to a member function create() on a non-object in /home/designbo/public_html/app/controllers/connections_controller.php on line 30
+[01-Mar-2012 22:15:42] PHP Fatal error:  Call to a member function create() on a non-object in /home/designbo/public_html/app/controllers/connections_controller.php on line 30
+[01-Mar-2012 22:16:20] PHP Fatal error:  Call to a member function delete() on a non-object in /home/designbo/public_html/app/controllers/connections_controller.php on line 72
+[28-Mar-2012 22:27:25] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/designbo/public_html/app/views/pages/share.ctp on line 45
+[28-Mar-2012 22:58:18] PHP Parse error:  syntax error, unexpected '.' in /home/designbo/public_html/app/views/pages/share.ctp on line 30
+[28-Mar-2012 23:08:56] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/designbo/public_html/app/views/pages/share.ctp on line 53
+[28-Mar-2012 23:15:12] PHP Fatal error:  Call to undefined function  pring_r() in /home/designbo/public_html/app/views/pages/share.ctp on line 19
+[28-Mar-2012 23:21:11] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ';' in /home/designbo/public_html/app/views/pages/share.ctp on line 24
+[30-Mar-2012 22:10:09] PHP Fatal error:  Cannot use string offset as an array in /home/designbo/public_html/app/views/pages/zoom.ctp on line 31
+[30-Mar-2012 22:26:02] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/designbo/public_html/app/views/images/view.ctp on line 37
+[30-Mar-2012 23:20:26] PHP Parse error:  syntax error, unexpected '{' in /home/designbo/public_html/app/views/layouts/default.ctp on line 81
+[31-Mar-2012 00:05:55] PHP Parse error:  syntax error, unexpected ':' in /home/designbo/public_html/app/views/pages/share.ctp on line 55
+[31-Mar-2012 00:15:22] PHP Parse error:  syntax error, unexpected '}' in /home/designbo/public_html/app/controllers/pages_controller.php on line 82
+[31-Mar-2012 00:37:45] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 124
+[31-Mar-2012 00:37:57] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 124
+[31-Mar-2012 00:38:36] PHP Parse error:  syntax error, unexpected '}' in /home/designbo/public_html/app/controllers/pages_controller.php on line 115
+[31-Mar-2012 00:38:41] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 123
+[31-Mar-2012 00:39:26] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 125
+[31-Mar-2012 00:39:30] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 123
+[31-Mar-2012 00:40:14] PHP Parse error:  syntax error, unexpected '}' in /home/designbo/public_html/app/controllers/pages_controller.php on line 115
+[31-Mar-2012 07:11:07] PHP Fatal error:  Unsupported operand types in /home/designbo/public_html/app/views/homepage/index.ctp on line 37
+[31-Mar-2012 07:11:09] PHP Fatal error:  Unsupported operand types in /home/designbo/public_html/app/views/homepage/index.ctp on line 37
+[31-Mar-2012 07:11:25] PHP Fatal error:  Unsupported operand types in /home/designbo/public_html/app/views/homepage/index.ctp on line 37
+[31-Mar-2012 07:11:35] PHP Fatal error:  Unsupported operand types in /home/designbo/public_html/app/views/homepage/index.ctp on line 37
+[31-Mar-2012 07:11:51] PHP Fatal error:  Unsupported operand types in /home/designbo/public_html/app/views/homepage/index.ctp on line 38
+[31-Mar-2012 07:19:04] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/designbo/public_html/app/views/homepage/index.ctp on line 41
+[31-Mar-2012 07:19:05] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ',' or ';' in /home/designbo/public_html/app/views/homepage/index.ctp on line 41
+[31-Mar-2012 18:01:16] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 23
+[31-Mar-2012 18:03:49] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 23
+[31-Mar-2012 18:05:38] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 23
+[31-Mar-2012 18:06:42] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 23
+[31-Mar-2012 20:16:13] PHP Fatal error:  Call to undefined method App::uses() in /home/designbo/public_html/app/controllers/users_controller.php on line 3
+[31-Mar-2012 20:16:25] PHP Fatal error:  Call to undefined method App::uses() in /home/designbo/public_html/app/controllers/users_controller.php on line 9
+[31-Mar-2012 20:19:33] PHP Fatal error:  Call to undefined method App::uses() in /home/designbo/public_html/app/controllers/users_controller.php on line 10
+[31-Mar-2012 20:24:54] PHP Fatal error:  Class 'CakeEmail' not found in /home/designbo/public_html/app/controllers/users_controller.php on line 152
+[31-Mar-2012 20:25:21] PHP Fatal error:  Call to undefined method App::uses() in /home/designbo/public_html/app/controllers/users_controller.php on line 146
+[31-Mar-2012 20:26:53] PHP Fatal error:  Class 'CakeEmail' not found in /home/designbo/public_html/app/controllers/users_controller.php on line 152
+[31-Mar-2012 20:31:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/designbo/public_html/app/controllers/users_controller.php on line 152
+[31-Mar-2012 20:34:27] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/designbo/public_html/app/controllers/users_controller.php on line 154
+[31-Mar-2012 22:30:23] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 23
+[01-Apr-2012 01:41:37] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 23
+[01-Apr-2012 06:23:48] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 23
+[01-Apr-2012 12:52:53] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 23
+[01-Apr-2012 12:52:59] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 23
+[01-Apr-2012 12:53:17] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 23
+[01-Apr-2012 12:53:23] PHP Parse error:  syntax error, unexpected T_LNUMBER, expecting T_FUNCTION in /home/designbo/public_html/app/controllers/pages_controller.php on line 23
+[01-Apr-2012 13:34:27] PHP Parse error:  syntax error, unexpected ')' in /home/designbo/public_html/app/controllers/pages_controller.php on line 120
+[01-Apr-2012 14:07:14] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/designbo/public_html/app/controllers/pages_controller.php on line 133
+[01-Apr-2012 14:15:05] PHP Parse error:  syntax error, unexpected '}' in /home/designbo/public_html/app/controllers/pages_controller.php on line 102
+[01-Apr-2012 14:19:27] PHP Fatal error:  Cannot redeclare PagesController::beforeFilter() in /home/designbo/public_html/app/controllers/pages_controller.php on line 30
+[01-Apr-2012 14:19:38] PHP Fatal error:  Cannot redeclare PagesController::beforeFilter() in /home/designbo/public_html/app/controllers/pages_controller.php on line 30
+[01-Apr-2012 14:19:41] PHP Fatal error:  Cannot redeclare PagesController::beforeFilter() in /home/designbo/public_html/app/controllers/pages_controller.php on line 30
+[01-Apr-2012 14:20:09] PHP Fatal error:  Cannot redeclare PagesController::beforeFilter() in /home/designbo/public_html/app/controllers/pages_controller.php on line 30
+[03-Apr-2012 00:28:11] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/designbo/public_html/app/views/pages/share.ctp on line 31
+[03-Apr-2012 00:28:20] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/designbo/public_html/app/views/pages/share.ctp on line 31
