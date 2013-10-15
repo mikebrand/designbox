@@ -87,7 +87,7 @@ class ProjectsController extends AppController {
 			$projectdata = array();
 			$projectdata['Project']['user_id'] = $user['User']['id'];
 			$projectdata['Project']['name'] = $this->data['Image']['name'];
-			$projectdata['Project']['description'] = $this->data['Image']['description'];
+			//$projectdata['Project']['description'] = $this->data['Image']['description'];
 			$this->Project->create();
 			if ($this->Project->save($projectdata)) {
 				$pagedata = array();
